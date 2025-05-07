@@ -1,6 +1,6 @@
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Student Amikom"],
+        strings: ["Graduate Of Universitas Amikom Yogyakarta"],
         typeSpeed: 100,
         backSpeed: 200,
         cursorChar: ' |',
